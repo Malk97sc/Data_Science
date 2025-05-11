@@ -1,5 +1,4 @@
 venvdata/
 .vscode/
 **/.ipynb_checkpoints/
-Projects/Time Series/covid-19/data/
-Projects/Time Series/passengers traffic/data/
+**/data/
