@@ -10,3 +10,7 @@ Time Series models
 ## Regression
 
 Regression models
+
+## Classification
+
+Classification models
